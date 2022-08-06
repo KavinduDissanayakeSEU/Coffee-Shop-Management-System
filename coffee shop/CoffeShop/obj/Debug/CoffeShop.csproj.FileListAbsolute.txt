@@ -1,0 +1,58 @@
+D:\C Project\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe.config
+D:\C Project\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe
+D:\C Project\CoffeShop\CoffeShop\bin\Debug\CoffeShop.pdb
+D:\C Project\CoffeShop\CoffeShop\bin\Debug\Guna.UI2.dll
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csprojResolveAssemblyReference.cache
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.Cache
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.exe
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.pdb
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.AdminLogin.resources
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.WelcomePage.resources
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.AdminDashboard.resources
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.UserDashboard.resources
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.AllUserControls.UC_Welcome.resources
+D:\C Project\CoffeShop\CoffeShop\obj\Debug\CoffeShop.AllUserControls.UC_AddProducts.resources
+D:\C Project\CoffeShop\CoffeShop\bin\Debug\Guna.UI.dll
+D:\C Project\CoffeShop Update 2\CoffeShop\bin\Debug\CoffeShop.exe.config
+D:\C Project\CoffeShop Update 2\CoffeShop\obj\Debug\CoffeShop.exe
+D:\C Project\CoffeShop Update 2\CoffeShop\obj\Debug\CoffeShop.pdb
+D:\C Project\Current Work\CoffeShop\bin\Debug\CoffeShop.exe.config
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.exe
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.pdb
+D:\C Project\Current Work\CoffeShop\bin\Debug\CoffeShop.exe
+D:\C Project\Current Work\CoffeShop\bin\Debug\CoffeShop.pdb
+D:\C Project\Current Work\CoffeShop\bin\Debug\Guna.UI.dll
+D:\C Project\Current Work\CoffeShop\bin\Debug\Guna.UI2.dll
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.csprojResolveAssemblyReference.cache
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.AdminDashboard.resources
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.AdminLogin.resources
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.AllUserControls.UC_AddProducts.resources
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.AllUserControls.UC_Welcome.resources
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.UserDashboard.resources
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.WelcomePage.resources
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+D:\C Project\Current Work\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.Cache
+D:\C Project\current work\CoffeShop\obj\Debug\CoffeShop.AllUserControls.UC_PlaceOrder.resources
+D:\C Project\Back up\06_16  1.36\CoffeShop\bin\Debug\CoffeShop.exe.config
+D:\C Project\Back up\06_16  1.36\CoffeShop\bin\Debug\CoffeShop.exe
+D:\C Project\Back up\06_16  1.36\CoffeShop\bin\Debug\CoffeShop.pdb
+D:\C Project\Back up\06_16  1.36\CoffeShop\bin\Debug\Guna.UI.dll
+D:\C Project\Back up\06_16  1.36\CoffeShop\bin\Debug\Guna.UI2.dll
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.csprojResolveAssemblyReference.cache
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.AdminDashboard.resources
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.AdminLogin.resources
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.AllUserControls.UC_AddProducts.resources
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.AllUserControls.UC_PlaceOrder.resources
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.AllUserControls.UC_Welcome.resources
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.UserDashboard.resources
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.WelcomePage.resources
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.Cache
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.exe
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.pdb
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.AllUserControls.UC_UpdateProducts.resources
+D:\C Project\Back up\06_16  1.36\CoffeShop\obj\Debug\CoffeShop.AllUserControls.UC_RemoveProducts.resources
+D:\C Project\Back up\06_19  11.45\CoffeShop\bin\Debug\CoffeShop.exe.config
+D:\C Project\Back up\06_19  11.45\CoffeShop\obj\Debug\CoffeShop.exe
+D:\C Project\Back up\06_19  11.45\CoffeShop\obj\Debug\CoffeShop.pdb
